@@ -1,0 +1,33 @@
+#menu {
+	border: 1px solid black;
+
+}
+
+#menu li{
+	padding-left: 3px;
+	display: inline-block;
+	text-align: center;
+	margin-top: 0;
+}
+
+#form{
+	position: relative;
+	float: right;
+	right: 0;
+}
+
+#show{
+	position: relative;
+	float: right;
+	width: 70%;
+	height: 300px;
+	border: 1px solid black;
+}
+
+#next {
+	border: 1px solid black;
+	width: 30%;
+	height: 300px;
+	position: relative;
+	float: left;
+}
